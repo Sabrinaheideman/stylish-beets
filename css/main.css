@@ -68,3 +68,13 @@ h2 {
   font-family: "PT Sans", sans-serif;
   color: #4e0e1f;
 }
+
+ol {
+  margin-left: 2rem;
+  padding-left: 0;
+  list-style-type: lower-greek;
+}
+
+.serve {
+  font-style: italic;
+}
