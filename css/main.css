@@ -1,0 +1,70 @@
+html {
+  background-color: #c9b5ae;
+  font-family: "PT Seirf", serif;
+  font-weight: normal;
+}
+
+h1{
+  font-family: "PT Sans", sans-serif;
+  font-size: 3rem;
+  font-weight: bold;
+  colour: #4e0e1f
+}
+
+body{
+  font-family: "PT Sans", serif;
+}
+
+nav{
+  list-style-type: none;
+}
+
+a {
+  color: #9e2244;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #4e0e1f;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+img {
+  width: 100%;
+}
+
+figcaption {
+  font-style: italic;
+  text-align: center;
+  font-size: .5rem;
+}
+
+.days {
+  font-weight: bold;
+  font-size: 3rem;
+}
+
+blockquote {
+  margin-left: 2rem;
+  padding-left: centre;
+  font-size: 3rem;
+  font-style: italic;
+}
+
+strong {
+  font-weight: normal;
+}
+
+cite {
+  font-size: .5rem;
+  font-style: italic;
+}
+
+h2 {
+  font-size: 3rem;
+  font-weight: bold;
+  font-family: "PT Sans", sans-serif;
+  color: #4e0e1f;
+}
