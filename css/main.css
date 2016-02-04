@@ -4,18 +4,18 @@ html {
   font-weight: normal;
 }
 
-h1{
+h1 {
   font-family: "PT Sans", sans-serif;
   font-size: 3rem;
   font-weight: bold;
   colour: #4e0e1f
 }
 
-body{
+body {
   font-family: "PT Sans", serif;
 }
 
-nav{
+nav {
   list-style-type: none;
 }
 
@@ -77,4 +77,18 @@ ol {
 
 .serve {
   font-style: italic;
+}
+
+dt {
+  font-weight: bold;
+}
+
+dd {
+  line-height: normal;
+}
+
+ul {
+  margin-left: 3em;
+  padding-left: 0;
+  list-style-type: circle;
 }
